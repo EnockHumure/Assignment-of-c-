@@ -1,9 +1,20 @@
-
-
+# Assignment-of-c-
 
 Names : Enock HUMURE
 ID: 27394
+
+---
+
 ## 0. Login and Menu Navigation
+
+![Login form](login%20form%20-01.png)
+
+![Login without entering data](login%20without%20entering%20data%2002.png)
+
+![Login after entering username and password](login%20after%20entering%20the%20password%20and%20username%20-03.png)
+
+---
+
 ## 1. Bicycle Business – Rental Cost Calculator
 
 ![Design before running](biscyle_business/biscyle_business/look%20of%20the%20design%20before%20running%20bicycle.png)
@@ -27,8 +38,3 @@ ID: 27394
 ![Cepe de Bordeaux result](Mushuroom-type/Mushuroom-type/cepe%20de%20bordeux.png)
 
 ![Pied bleu result](Mushuroom-type/Mushuroom-type/pie%20de%20bleu.png)
-
----
-
-
-
