@@ -1,4 +1,4 @@
-# Assignment-of-c-
+# Assignment-of-c-sharp
 
 ## 1. Bicycle Business – Rental Cost Calculator
 
