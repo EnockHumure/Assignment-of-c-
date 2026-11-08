@@ -1,5 +1,9 @@
-# Assignment-of-c-
 
+
+
+Names : Enock HUMURE
+ID: 27394
+## 0. Login and Menu Navigation
 ## 1. Bicycle Business – Rental Cost Calculator
 
 ![Design before running](biscyle_business/biscyle_business/look%20of%20the%20design%20before%20running%20bicycle.png)
@@ -26,9 +30,5 @@
 
 ---
 
-## 3. Login and Menu Navigation
 
-- Login form accepts any username and password
-- Menu lets you choose between Bicycle Rental or Mushroom Identifier
-- Each app has a Back to Menu button
-- Menu has a Logout button that returns to Login
+
