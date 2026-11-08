@@ -1,0 +1,16 @@
+C:\Users\I_nock\Documents\Dotnet\lab-two\Mushuroom-type\Mushuroom-type\bin\Debug\net8.0-windows\Mushuroom-type.exe
+C:\Users\I_nock\Documents\Dotnet\lab-two\Mushuroom-type\Mushuroom-type\bin\Debug\net8.0-windows\Mushuroom-type.deps.json
+C:\Users\I_nock\Documents\Dotnet\lab-two\Mushuroom-type\Mushuroom-type\bin\Debug\net8.0-windows\Mushuroom-type.runtimeconfig.json
+C:\Users\I_nock\Documents\Dotnet\lab-two\Mushuroom-type\Mushuroom-type\bin\Debug\net8.0-windows\Mushuroom-type.dll
+C:\Users\I_nock\Documents\Dotnet\lab-two\Mushuroom-type\Mushuroom-type\bin\Debug\net8.0-windows\Mushuroom-type.pdb
+C:\Users\I_nock\Documents\Dotnet\lab-two\Mushuroom-type\Mushuroom-type\obj\Debug\net8.0-windows\Mushuroom_type.Form1.resources
+C:\Users\I_nock\Documents\Dotnet\lab-two\Mushuroom-type\Mushuroom-type\obj\Debug\net8.0-windows\Mushuroom-type.csproj.GenerateResource.cache
+C:\Users\I_nock\Documents\Dotnet\lab-two\Mushuroom-type\Mushuroom-type\obj\Debug\net8.0-windows\Mushuroom-type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I_nock\Documents\Dotnet\lab-two\Mushuroom-type\Mushuroom-type\obj\Debug\net8.0-windows\Mushuroom-type.AssemblyInfoInputs.cache
+C:\Users\I_nock\Documents\Dotnet\lab-two\Mushuroom-type\Mushuroom-type\obj\Debug\net8.0-windows\Mushuroom-type.AssemblyInfo.cs
+C:\Users\I_nock\Documents\Dotnet\lab-two\Mushuroom-type\Mushuroom-type\obj\Debug\net8.0-windows\Mushuroom-type.csproj.CoreCompileInputs.cache
+C:\Users\I_nock\Documents\Dotnet\lab-two\Mushuroom-type\Mushuroom-type\obj\Debug\net8.0-windows\Mushuroom-type.dll
+C:\Users\I_nock\Documents\Dotnet\lab-two\Mushuroom-type\Mushuroom-type\obj\Debug\net8.0-windows\refint\Mushuroom-type.dll
+C:\Users\I_nock\Documents\Dotnet\lab-two\Mushuroom-type\Mushuroom-type\obj\Debug\net8.0-windows\Mushuroom-type.pdb
+C:\Users\I_nock\Documents\Dotnet\lab-two\Mushuroom-type\Mushuroom-type\obj\Debug\net8.0-windows\Mushuroom-type.genruntimeconfig.cache
+C:\Users\I_nock\Documents\Dotnet\lab-two\Mushuroom-type\Mushuroom-type\obj\Debug\net8.0-windows\ref\Mushuroom-type.dll
